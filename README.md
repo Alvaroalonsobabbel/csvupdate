@@ -1,6 +1,6 @@
 # CSV Tool
 
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/Alvaroalonsobabbel/csvtool) ![Test](https://github.com/Alvaroalonsobabbel/csvtool/actions/workflows/go-test.yml/badge.svg)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/Alvaroalonsobabbel/csvupdate) ![Test](https://github.com/Alvaroalonsobabbel/csvupdate/actions/workflows/go-test.yml/badge.svg)
 
 Updates CSV files with values from another CSV file and generates an output file `out.csv`
 
@@ -8,7 +8,7 @@ Updates CSV files with values from another CSV file and generates an output file
 
 ### MacOS
 
-Download the latest release [here](https://github.com/Alvaroalonsobabbel/csvtool/releases/latest/download/csvtool) and install it.
+Download the latest release [here](https://github.com/Alvaroalonsobabbel/csvupdate/releases/latest/download/csvupdate) and install it.
 
 ### non MacOS
 
