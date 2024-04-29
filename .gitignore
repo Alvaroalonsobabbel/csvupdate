@@ -1,4 +1,3 @@
 csvupdate
 **/out.csv
 .DS_Store
-*.csv
