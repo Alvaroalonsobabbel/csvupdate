@@ -24,9 +24,12 @@ jobs:
     - name: Get dependencies
       run: go mod download
 
+    - name: Build
+      run: go build ./...
+
     - name: Clear Module Cache
       run: go clean --modcache
-      
+
     - name: golangci-lint
       uses: golangci/golangci-lint-action@v5
       with:
